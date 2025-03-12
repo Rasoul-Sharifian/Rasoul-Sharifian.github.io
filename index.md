@@ -16,6 +16,4 @@ I am currently an industrial Ph.D. student in computer vision, under the supervi
 - **[Dec. 2024]** Our paper **RoDEM** paper has received <span style="color:red;">early acceptance</span> for **IPCAI 2025**.
 - **[Sept. 2024]** Our paper on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> for the **Deep-Breath MICCAI 2025 Workshop**.
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
