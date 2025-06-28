@@ -3,7 +3,7 @@ main:
 
 - title: "SurgIPC: a Convex Image Perspective Correction Method to Boost Surgical Keypoint Matching"
   authors: Sharifian, Rasoul; Adrien, Bartoli
-  conference_short: IPCAI
+  conference_short: IPCAI 2025
   pdf: https://encov.ip.uca.fr/publications/pubfiles/2025_Sharifian_etal_IJCARS_flattening.pdf
   code: https://github.com/Rasoul-Sharifian/SurgIPC
   image: ./assets/img/SurgIPC.png
@@ -12,8 +12,15 @@ main:
 
 - title: "The RoDEM Benchmark: Evaluating the Robustness of Monocular Single-shot Depth Estimation Methods in Minimally-Invasive Surgery"
   authors: Sharifian, Rasoul; Navid, Rabbani; Adrien, Bartoli
-  conference_short: IPCAI
+  conference_short: IPCAI 2025
   pdf: https://encov.ip.uca.fr/publications/pubfiles/2025_Sharifian_etal_IJCARS_depth.pdf
   dataset: https://drive.google.com/drive/folders/1d3e5y7ijcob1_qhPa6p1gLYR5bcJMdPj
   image: ./assets/img/RoDEM.png
+  notes: Early Accept
+
+- title: "Guiding Breast-Conservative Surgery by Augmented Reality from Preoperative MRI: Initial System Design and Retrospective Trials"
+  authors: Sharifian, Rasoul; Sabrina, Madad-Zadeh; N. Bourdel; A. Giro; W. Marraoui; C. Pomel; Adrien, Bartoli
+  conference_short: MICCAI 2024, DEEP-BREATH - Deep Breast Workshop	
+  pdf: https://encov.ip.uca.fr/publications/pubfiles/2024_Sharifian_etal_DeepBreath_breast.pdf
+  image: ./assets/img/BCS.png
   notes: Early Accept
