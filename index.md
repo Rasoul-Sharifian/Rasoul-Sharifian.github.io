@@ -11,15 +11,15 @@ I am currently an industrial Ph.D. student in computer vision, under the supervi
 - **Computer Vision:** Deformable Registration, Augmented Reality, Computer Assisted Intervention
 
 ## News
-- **[June. 2025]** SurgIPC shortlisted as the<span style="color:red;"> best ML paper in CAI award</span> in **IPCAI 2025**.
-- **[June. 2025]** I got the <span style="color:red;">Student award</span> for **IPCAI 2025**.
+- **[June. 2025]** SurgIPC was shortlisted for the<span style="color:red;"> Best ML paper in CAI award</span> at **IPCAI 2025**.
+- **[June. 2025]** Received the <span style="color:red;">Student participation Award</span> at **IPCAI 2025**.
 - **[Feb. 2025]** Our paper **SurgIPC** was accepted to **IPCAI 2025**.
 - **[Dec. 2024]** Our paper **RoDEM** paper has received <span style="color:red;">early acceptance</span> for **IPCAI 2025**.
-- **[Sept. 2024]** Our paper on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> for the **Deep-Breath MICCAI 2025 Workshop**.
+- **[Sept. 2024]** Our work on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> for the **Deep-Breath MICCAI 2025 Workshop**.
 
 
-## Papers
-- **SurgIPC:** A Convex Image Perspective Correction Method to Boost Surgical Keypoint Matching (IPCAI 2025) [📄 PDF](link_to_pdf) | [💻 Code](https://github.com/yourusername/surgipc) | [🎤 Presentation](link_to_slides)
-- **RoDEM:** The RoDEM Benchmark for Robust Monocular Depth in MIS (IPCAI 2025) [📄 PDF](link_to_pdf) | [💻 Code](https://github.com/yourusername/rodem) | [🎤 Presentation](link_to_slides)
+{% include_relative _includes/publications.md %}
+
+
 
 
