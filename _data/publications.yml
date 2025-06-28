@@ -4,7 +4,6 @@ main:
 - title: "SurgIPC: a Convex Image Perspective Correction Method to Boost Surgical Keypoint Matching"
   authors: Sharifian, Rasoul; Adrien, Bartoli
   conference_short: IPCAI
-  conference: IEEE International Conference on Robotics and Automation, 2024
   code: https://github.com/Rasoul-Sharifian/SurgIPC
   image: ./assets/img/SurgIPC.png
   notes: Shortlisted for the best ML paper in CAI at IPCAI
