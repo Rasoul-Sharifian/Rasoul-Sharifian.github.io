@@ -17,7 +17,7 @@ I am currently an industrial Ph.D. student in computer vision, supervised by Pro
 - **[Feb. 2025]** Our paper **SurgIPC** was accepted to **IPCAI 2025**.
 - **[Dec. 2024]** Our paper **RoDEM** paper has received <span style="color:red;">early acceptance</span> for **IPCAI 2025**.
 - **[Sept. 2024]** Our work on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> for the **Deep-Breath MICCAI 2025 Workshop**.
-- **[Aug 2024]** **SurgIPC** received the **2nd Best Poster Prize** at the **27th BMVA Computer Vision Summer School (UK)**.
+- **[Aug. 2024]** **SurgIPC** received the **2nd Best Poster Prize** at the **27th BMVA Computer Vision Summer School (UK)**.
 
 {% include_relative _includes/publications.md %}
 
