@@ -11,7 +11,7 @@ I am currently an industrial Ph.D. student in computer vision, supervised by Pro
 - **Computer Vision:** Deformable Registration, Augmented Reality, Computer Assisted Intervention
 
 ## News
-- **[Feb. 2026]** Our paper **Uncalibrated Atereo Matching in MIS** was accepted to **IPCAI 2026**.
+- **[Feb. 2026]** Our paper **Uncalibrated Stereo Matching in MIS** was accepted to **IPCAI 2026**.
 - **[June. 2025]** SurgIPC was shortlisted for the<span style="color:red;"> Best ML paper in CAI award</span> at **IPCAI 2025**.
 - **[June. 2025]** Received the <span style="color:red;">Student participation Award</span> at **IPCAI 2025**.
 - **[Feb. 2025]** Our paper **SurgIPC** was accepted to **IPCAI 2025**.
