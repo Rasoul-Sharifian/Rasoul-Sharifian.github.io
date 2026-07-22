@@ -11,16 +11,17 @@ I am currently an industrial Ph.D. student in computer vision, supervised by Pro
 - **Computer Vision:** Deformable Registration, Augmented Reality, Computer Assisted Intervention
 
 ## News
-- **[Feb. 2026]** Our paper **Uncalibrated Stereo Matching in MIS** was accepted to **IPCAI 2026**.
-- **[June. 2025]** SurgIPC was shortlisted for the<span style="color:red;"> Best ML paper in CAI award</span> at **IPCAI 2025**.
-- **[June. 2025]** Received the <span style="color:red;">Student participation Award</span> at **IPCAI 2025**.
-- **[Feb. 2025]** Our paper **SurgIPC** was accepted to **IPCAI 2025**.
-- **[Dec. 2024]** Our paper **RoDEM** paper has received <span style="color:red;">early acceptance</span> for **IPCAI 2025**.
-- **[Sept. 2024]** Our work on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> for the **Deep-Breath MICCAI 2025 Workshop**.
-- **[Aug. 2024]** **SurgIPC** received the **2nd Best Poster Prize** at the **27th BMVA Computer Vision Summer School (UK)**.
+- **[Jul. 2026]** I successfully defended my Ph.D. and joined **SurgAR** as a Technology Transfer and R&D Engineer.
+- **[Jul. 2026]** Our paper **CATS** was shortlisted for the **Best Presentation Award** at **IPCAI 2026**.
+- **[Feb. 2026]** Our paper **Uncalibrated Stereo Matching in MIS** was accepted at **IPCAI 2026**.
+- **[Jun. 2025]** **SurgIPC** was shortlisted for the **Best ML Paper in CAI Award** at **IPCAI 2025**.
+- **[Jun. 2025]** I received the **Student Participation Award** at **IPCAI 2025**.
+- **[Feb. 2025]** Our paper **SurgIPC** was accepted at **IPCAI 2025**.
+- **[Dec. 2024]** Our paper **RoDEM** received early acceptance at **IPCAI 2025**.
+- **[Sep. 2024]** Our work on **AR Guidance for Breast Surgery** received early acceptance at the **Deep-Breath MICCAI Workshop**.
+- **[Aug. 2024]** **SurgIPC** received the **Second-Best Poster Prize** at the **27th BMVA Computer Vision Summer School** in the UK.
 
 {% include_relative _includes/publications.md %}
-
 
 
 
