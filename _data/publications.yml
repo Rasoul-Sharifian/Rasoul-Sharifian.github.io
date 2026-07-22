@@ -1,6 +1,17 @@
 main:
 
 
+- title: "Camera Augmentation: Enabling Uncalibrated Stereo Matching of Minimally-Invasive Surgery Images by Training from the Wealth of Public Synthetic Image Datasets"
+  authors: Sharifian, Rasoul; Navid, Rabbani; Yongcong, Zhang; Adrien, Bartoli
+  conference_short: IPCAI
+  pdf: https://encov.ip.uca.fr/publications/pubfiles/2026_Sharifian_etal_IJCARS_stereo.pdf
+  website: https://rasoul-sharifian.github.io/CATS/
+  models: https://drive.google.com/drive/folders/1YyuhrBO1VO9-nXw5LveIqXgPI2wUnEzo
+  github: https://github.com/Rasoul-Sharifian/CATS
+  image: ./assets/img/Monkey, CATS.svg
+  notes: Shortlisted for the Best Presentation Award at IPCAI 2026
+
+
 - title: "SurgIPC: a Convex Image Perspective Correction Method to Boost Surgical Keypoint Matching"
   authors: Sharifian, Rasoul; Adrien, Bartoli
   conference_short: IPCAI

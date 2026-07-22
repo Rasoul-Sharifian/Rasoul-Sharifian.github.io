@@ -30,6 +30,12 @@
       {% if link.dataset %}
       <a href="{{ link.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Dataset</a>
       {% endif %}
+      {% if link.models %}
+      <a href="{{ link.models }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Models</a>
+      {% endif %}
+      {% if link.github %}
+      <a href="{{ link.github }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">GitHub</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
