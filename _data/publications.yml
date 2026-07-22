@@ -20,7 +20,7 @@ main:
 
 - title: "Guiding Breast-Conservative Surgery by Augmented Reality from Preoperative MRI: Initial System Design and Retrospective Trials"
   authors: Sharifian, Rasoul; Sabrina, Madad-Zadeh; N. Bourdel; A. Giro; W. Marraoui; C. Pomel; Adrien, Bartoli
-  conference_short: MICCAI Workshop
+  conference_short: MICCAI Workshop	
   pdf: https://encov.ip.uca.fr/publications/pubfiles/2024_Sharifian_etal_DeepBreath_breast.pdf
   image: ./assets/img/BCS.png
   notes: Early Accept
