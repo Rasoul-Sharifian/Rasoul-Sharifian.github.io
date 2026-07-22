@@ -17,7 +17,7 @@ main:
   authors: Sharifian, Rasoul; Adrien, Bartoli
   conference_short: IPCAI
   pdf: https://encov.ip.uca.fr/publications/pubfiles/2025_Sharifian_etal_IJCARS_flattening.pdf
-  code: https://github.com/Rasoul-Sharifian/SurgIPC
+  github: https://github.com/Rasoul-Sharifian/SurgIPC
   image: ./assets/img/SurgIPC.png
   notes: Shortlisted for the best ML paper in CAI at IPCAI
 
