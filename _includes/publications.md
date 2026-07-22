@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1{% if link.image_fit == 'contain' %} teaser-contain{% endif %}" style="width=100;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1{% if link.image_fit == 'contain' %} teaser-contain{% endif %}"{% if link.image_fit == 'contain' %} style="width:270px;height:123px;object-fit:contain;object-position:center;background:#fff;box-sizing:border-box;padding:4px;"{% endif %}>
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
