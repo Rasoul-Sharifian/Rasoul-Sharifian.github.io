@@ -2,13 +2,14 @@
 title: Rasoul Sharifian 
 position: Ph.D. Student - R&D Engineer
 affiliation: EnCoV-SURGAR
+affiliation_link: https://encov.ip.uca.fr/
 email: rasoul.sharifian.cs (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: computer vision, surgical augmented reality, deformable registration, minimally invasive surgery, medical imaging
+description: Rasoul Sharifian is an industrial Ph.D. researcher working on computer vision, surgical augmented reality, and deformable registration.
+canonical: https://rasoul-sharifian.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
