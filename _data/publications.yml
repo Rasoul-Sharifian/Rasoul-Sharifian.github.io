@@ -9,6 +9,7 @@ main:
   models: https://drive.google.com/drive/folders/1YyuhrBO1VO9-nXw5LveIqXgPI2wUnEzo
   github: https://github.com/Rasoul-Sharifian/CATS
   image: ./assets/img/Monkey, CATS.svg
+  image_fit: contain
   notes: Shortlisted for the Best Presentation Award at IPCAI 2026
 
 
