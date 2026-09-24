@@ -4,14 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am currently an industrial Ph.D. student in computer vision, supervised by Professor Adrien Bartoli, and Navid Rabbani. My research is mainly about scene reconstruction, deformable registration, and Augmented Reality in Minimally Invasive Surgeries.My Ph.D. is conducted under a CIFRE contract, a program in France that enables close collaboration between industry and academia to address real-world research challenges. Before pursuing my Ph.D., I worked as a research engineer at EnCoV, Institute Pascale (CNRS). I have experience in X-ray imaging systems, dealing with inspection and Treatment Planning Systems in radiotherapy. Additionally, I have several years of experience as a ping pong coach and player!
+I am an R&D and Technology Transfer Engineer at [SurgAR](https://www.surgar-surgery.com/), working in close collaboration with [EnCoV](https://encov.ip.uca.fr/) and CHU Clermont-Ferrand to translate computer-vision research into surgical applications.
+
+I hold a Ph.D. in Computer Vision, completed through a CIFRE industrial research programme under the supervision of Professor Adrien Bartoli and Dr. Navid Rabbani. My research focuses on 3D reconstruction, deformable registration, differentiable physics, and augmented reality for minimally invasive surgery. Before my Ph.D., I worked as a research engineer at EnCoV, Institut Pascal (UCA/CNRS), and on X-ray imaging systems for industrial inspection and radiotherapy treatment planning. Outside research, I have several years of experience as a table-tennis player and coach.
 
 ## Research Interests
 
 - **Computer Vision:** Deformable Registration, Augmented Reality, Computer Assisted Intervention
 
 ## News
-- **[Jul. 2026]** I successfully defended my Ph.D. and joined **SurgAR** as a Technology Transfer and R&D Engineer.
+- **[Aug. 2026]** Our paper **Topology-adaptive Deformable Registration with MPM** received <span style="color:red;">early acceptance</span> at **WACV 2027**.
+- **[Jul. 2026]** I defended my Ph.D. and joined **SurgAR** as a Technology Transfer and R&D Engineer.
 - **[Jul. 2026]** Our paper **CATS** was shortlisted for the <span style="color:red;">Best Presentation Award</span> at **IPCAI 2026**.
 - **[Feb. 2026]** Our paper **Uncalibrated Stereo Matching in MIS** was accepted at **IPCAI 2026**.
 - **[Jun. 2025]** **SurgIPC** was shortlisted for the <span style="color:red;">Best ML Paper in CAI Award</span> at **IPCAI 2025**.
@@ -19,7 +22,6 @@ I am currently an industrial Ph.D. student in computer vision, supervised by Pro
 - **[Feb. 2025]** Our paper **SurgIPC** was accepted at **IPCAI 2025**.
 - **[Dec. 2024]** Our paper **RoDEM** received <span style="color:red;">early acceptance</span> at **IPCAI 2025**.
 - **[Sep. 2024]** Our work on **AR Guidance for Breast Surgery** received <span style="color:red;">early acceptance</span> at the **Deep-Breath MICCAI Workshop**.
-- **[Aug. 2024]** **SurgIPC** received the **Second-Best Poster Prize** at the **27th BMVA Computer Vision Summer School** in the UK.
+- **[Aug. 2024]** **SurgIPC** received the <span style="color:red;">Second-Best Poster Prize</span> at the **27th BMVA Computer Vision Summer School** in the UK.
 
 {% include_relative _includes/publications.md %}
-
