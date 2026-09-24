@@ -10,7 +10,9 @@ I hold a Ph.D. in Computer Vision, completed through a CIFRE industrial research
 
 ## Research Interests
 
-- **Computer Vision:** Deformable Registration, Augmented Reality, Computer Assisted Intervention
+**Computer Vision:** Deformable registration · 3D scene reconstruction · Differentiable physics and rendering · Augmented reality
+
+**Image-Guided Surgery:** Computer-assisted intervention · Surgical augmented reality · Clinical technology transfer
 
 ## News
 - **[Aug. 2026]** Our paper **Topology-adaptive Deformable Registration with MPM** received <span style="color:red;">early acceptance</span> at **WACV 2027**.
